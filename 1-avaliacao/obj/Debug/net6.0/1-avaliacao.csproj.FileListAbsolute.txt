@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\1-avaliacao\1-avaliacao\obj\Debug\net6.0\1-avaliacao.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\1-avaliacao\1-avaliacao\obj\Debug\net6.0\1-avaliacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\1-avaliacao\1-avaliacao\obj\Debug\net6.0\1-avaliacao.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\1-avaliacao\1-avaliacao\obj\Debug\net6.0\1-avaliacao.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\1-avaliacao\1-avaliacao\obj\Debug\net6.0\1-avaliacao.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\1-avaliacao\1-avaliacao\bin\Debug\net6.0\1-avaliacao.exe
+C:\Users\Lenovo\source\repos\1-avaliacao\1-avaliacao\bin\Debug\net6.0\1-avaliacao.deps.json
+C:\Users\Lenovo\source\repos\1-avaliacao\1-avaliacao\bin\Debug\net6.0\1-avaliacao.runtimeconfig.json
+C:\Users\Lenovo\source\repos\1-avaliacao\1-avaliacao\bin\Debug\net6.0\1-avaliacao.dll
+C:\Users\Lenovo\source\repos\1-avaliacao\1-avaliacao\bin\Debug\net6.0\1-avaliacao.pdb
+C:\Users\Lenovo\source\repos\1-avaliacao\1-avaliacao\obj\Debug\net6.0\1-avaliacao.dll
+C:\Users\Lenovo\source\repos\1-avaliacao\1-avaliacao\obj\Debug\net6.0\refint\1-avaliacao.dll
+C:\Users\Lenovo\source\repos\1-avaliacao\1-avaliacao\obj\Debug\net6.0\1-avaliacao.pdb
+C:\Users\Lenovo\source\repos\1-avaliacao\1-avaliacao\obj\Debug\net6.0\1-avaliacao.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\1-avaliacao\1-avaliacao\obj\Debug\net6.0\ref\1-avaliacao.dll
